@@ -1,0 +1,25 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: deepin-cursor-theme
+Upstream-Contact: dingheng@uniontech.com <dingheng@uniontech.com>
+Source: https://github.com/linuxdeepin/deepin-cursor-theme
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
+
+# ci
+Files: .github/*
+Copyright: None
+License: CC0-1.0
+
+# cursor files
+Files: Deepin-Cursor/*
+Copyright: UnionTech Software Technology Co., Ltd.
+License: GPL-3.0-or-later
+
+# Project file
+Files: Makefile
+Copyright: None 
+License: CC0-1.0
